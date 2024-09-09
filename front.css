@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    background-color: #c5dcec;
+}
+
+.bg{
+    padding: 100px;
+}
+
+ .subbg{
+    height: 280px;
+    width: 160px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+ }
+ img{
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+ }
+
+h4{
+    margin-top: 15px;
+    font-size: 13px;
+    color: black;
+}
+
+p{
+    margin-top: 0px;
+    font-size: 10px;
+    color: rgb(176, 181, 187);
+}
